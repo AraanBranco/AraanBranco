@@ -1,7 +1,7 @@
 <h3 align="center">👋 Hi there! I'm Araan Branco</h3>
 <p align="center">
-  <a href="https://www.araanbran.co">🌐 Website</a> •
-  <a href="https://twitter.com/araanbranco">🐦 Twitter</a>
+  <a href="https://www.araanbran.co" target="_blank">🌐 Website</a> •
+  <a href="https://twitter.com/araanbranco" target="_blank">🐦 Twitter</a>
 </p>
 
 ---
