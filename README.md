@@ -10,7 +10,7 @@
 💬 I love sharing my knowledge with others and over the past few years I've been trying to participate more and more in communities. I'm an AWS Boy and serverless enthusiast. When I'm not programming, I'm following esports or studying something new.
 
 - 💬 Ask me about: NodeJS, GO, NoSQL, Serverless, esports.
-- 🔭 I'm currently working at [By Aliens](https://byaliens.com/)
+- 🔭 I'm currently working at [MatchSkins](https://matchskins.com.br/) and [By Aliens](https://byaliens.com/)
 - 📫 How to reach me: [@araanbranco](https://twitter.com/araanbranco)
 
 
